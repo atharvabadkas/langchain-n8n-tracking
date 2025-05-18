@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+langchain_experimental
+langchain_openai
+openai
+matplotlib
+fpdf 
